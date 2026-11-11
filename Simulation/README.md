@@ -1,2 +1,2 @@
 Folder for LTSpice schematic. 
-- **LTspice Schematic:** [`simulation/ECP.asc`](simulation/ECP.asc)
+- **LTspice Schematic:** [`Simulation/ECP.asc`](Simulation/ECP.asc)
